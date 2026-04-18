@@ -1,0 +1,18 @@
+Akun Admin:
+Username : admin Password : password
+
+Akun Mahasiswa:
+Username : M1  Password : M1
+Username : M2  Password : M2
+Username : M3  Password : M3
+Username : M4  Password : M4
+Username : M5  Password : M5
+Username : M6  Password : M6
+
+Akun Dosen:
+Username : D1  Password : D1
+Username : D2  Password : D2
+Username : D3  Password : D3
+Username : D4  Password : D4
+Username : D5  Password : D5
+Username : D6  Password : D6
